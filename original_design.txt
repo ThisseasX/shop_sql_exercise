@@ -1,0 +1,23 @@
+role
+admin
+seller
+client
+
+product
+one price discount
+two price discount
+three price discount
+
+shop
+first	address
+second	address
+third	address
+
+stock
+shop product qty
+
+order
+seller client
+
+orderline
+order product qty
